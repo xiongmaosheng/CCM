@@ -15,3 +15,7 @@ G:绿色
 # gif:
 ![直播软件加载窗口](example.gif "直播软件加载窗口")
 
+# 开发工具
+
+VS2022+.NET Framework 4.7+AForge.Net2.2.5.0
+
